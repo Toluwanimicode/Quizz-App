@@ -33,4 +33,12 @@ let questions = [
         choice4: "alert('Hello World');",
         answer: 4
     },
+    {
+        question : "How do you write 'Hello World' in an alert box?",
+        choice1: "msgBox('Hello World');",
+        choice2: "alertBox('Hello World');",
+        choice3: " msg('Hello World');",
+        choice4: "alert('Hello World');",
+        answer: 4
+    },
 ]
